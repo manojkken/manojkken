@@ -17,12 +17,9 @@
 
 ### 🧑‍💻 About me
 
-- 🧪 Lead a QA engineering team at **Würth Cloud Services**, owning the bi-weekly release process
 - ☁️ **AWS Certified DevOps Engineer – Professional**, Developer Associate, Cloud Practitioner
 - 🛠️ 20+ years across quality assurance, DevOps, and cloud infrastructure
 - 🤖 Currently exploring AI agents for testing and SRE, MCP tooling, and test-impact analysis
-- 🌱 Contributing to open source: [OpenSRE](https://github.com/Tracer-Cloud/opensre)
-- 📝 Also a technical writer, I care about docs as much as code
 
 ### 🚀 Featured projects
 
