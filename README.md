@@ -25,6 +25,7 @@
 
 | Project | What it does |
 | --- | --- |
+| [testcontainers-aws](https://github.com/manojkken/testcontainers-aws) | Python package for AWS integration tests: LocalStack via Testcontainers with pre-configured boto3 clients and pytest fixtures |
 | [csv-faker-generator](https://github.com/manojkken/csv-faker-generator) | npm package to generate CSV test data from headers and type definitions using Faker |
 | [impactgraph](https://github.com/manojkken/impactgraph) | Graph-based test-impact agent (Graph Hacks hackathon entry) |
 | [xray-trace-dashboard](https://github.com/manojkken/xray-trace-dashboard) | Dashboard for AWS X-Ray traces |
