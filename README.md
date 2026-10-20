@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manoj Kengudelu 👋</h1>
+<h1 align="center">Hi, I'm Manoj Kengudelu</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,13 +15,13 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
-- ☁️ **AWS Certified DevOps Engineer – Professional**, Developer Associate, Cloud Practitioner
-- 🛠️ 20+ years across quality assurance, DevOps, and cloud infrastructure
-- 🤖 Currently exploring AI agents for testing and SRE, MCP tooling, and test-impact analysis
+- **AWS Certified DevOps Engineer – Professional**, Developer Associate, Cloud Practitioner
+- 20+ years across quality assurance, DevOps, and cloud infrastructure
+- Currently exploring AI agents for testing and SRE, MCP tooling, and test-impact analysis
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it does |
 | --- | --- |
@@ -30,13 +30,13 @@
 | [impactgraph](https://github.com/manojkken/impactgraph) | Graph-based test-impact agent (Graph Hacks hackathon entry) |
 | [xray-trace-dashboard](https://github.com/manojkken/xray-trace-dashboard) | Dashboard for AWS X-Ray traces |
 
-### 🧰 Tech stack
+### Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,python,js,ts,nodejs,docker,kubernetes,terraform,githubactions,jenkins,postman,linux,bash,git&perline=14" />
 </p>
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojkken&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,7 +51,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkken&theme=tokyo-night&hide_border=true" />
 </p>
 
-### 🐍 Contribution snake
+### Contribution snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manojkken/manojkken/output/github-contribution-grid-snake.svg" alt="snake animation" />
