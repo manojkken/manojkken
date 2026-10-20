@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=QA+Engineering+Lead+%40+W%C3%BCrth+Cloud+Services;AWS+DevOps+Professional;Platform+%26+Reliability+Engineering;Building+test+tooling+and+AI+agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=QA+Engineering+Lead;AWS+DevOps+Professional;Platform+%26+Reliability+Engineering;Building+test+tooling+and+AI+agents" alt="Typing SVG" />
   </a>
 </p>
 
